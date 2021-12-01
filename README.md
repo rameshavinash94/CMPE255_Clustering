@@ -33,3 +33,5 @@ DBSCAN stands for Density-Based Spatial Clustering of Applications with Noise. T
 
 **Gaussian Mixture**
 Gaussian Mixture Models are a powerful clustering algorithm.Gaussian Mixture Models (GMMs) assume that there are a certain number of Gaussian distributions, and each of these distributions represent a cluster. Hence, a Gaussian Mixture Model tends to group the data points belonging to a single distribution together.
+
+**NOTE:** PYCARET METRIC PLOTS  WON'T BE SHOWN in GITHUB SINCE IT USES PLOTLY. Built on top of the Plotly JavaScript library (plotly. js). Kindly open in colab or any other feasible option.
